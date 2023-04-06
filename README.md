@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @smugpugporky
-- 👀 I’m interested in personal tools, api keys, D&D, video games
-- 🌱 I’m currently learning React, Java, and scripting with Python
-- 💞️ I’m looking to collaborate on projects in line with my interests
+- 👋 Hi, I’m Jennifer
+- 👀 I’m interested in making tools for video games, productivity, cooking, and mental health
+- 🌱 I’m currently learning React Native, Express.js, Java, and Python
 
 <!---
 smugpugporky/smugpugporky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
